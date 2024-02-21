@@ -1,1 +1,0 @@
-{"virtualbox":{"/srv/website":{"guestpath":"/srv/website","hostpath":"C:/Users/odongo/Documents/django_rest_api_project/source","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/odongo/Documents/django_rest_api_project","disabled":false,"__vagrantfile":true}}}
